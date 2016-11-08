@@ -325,8 +325,8 @@
 
 	"rndwave"
 	{
-		"wave"	"*vo/npc/$gender01/pain07.wav"
-		"wave"	"*vo/npc/$gender01/pain08.wav"
-		"wave"	"*vo/npc/$gender01/pain09.wav"
+		"wave"	"*vo/npc/male01/pain07.wav"
+		"wave"	"*vo/npc/male01/pain08.wav"
+		"wave"	"*vo/npc/male01/pain09.wav"
 	}
 }

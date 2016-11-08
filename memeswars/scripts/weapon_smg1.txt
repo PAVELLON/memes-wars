@@ -13,7 +13,7 @@ WeaponData
 	"clip_size"				"45"
 	"clip2_size"			"-1"
 
-	"default_clip"			"45"
+	"default_clip"			"60"
 	"default_clip2"			"-1"
 
 	"primary_ammo"			"SMG1"
@@ -21,7 +21,7 @@ WeaponData
 
 	"weight"				"3"
 	"item_flags"			"0"
-	"damage"			"5"
+	"damage"			"27"
 
 	// Sounds for the weapon. There is a max of 16 sounds per category (i.e. max 16 "single_shot" sounds)
 	SoundData
