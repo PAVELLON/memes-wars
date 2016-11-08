@@ -1,0 +1,16 @@
+"Vertexlitgeneric"
+{
+  "$basetexture" "models/weapons/bizon/bison_d"
+  "$bumpmap" "models/weapons/bizon/bison_n"
+  "$envmap" "env_cubemap"
+  "$envmapsaturation" "0.5"
+  "$envmapcontrast" "0.2"
+  "$envmaptint" "[0.08 0.08 0.08]"
+"$normalmapalphaenvmapmask" "0"
+  "$phong" "1"
+  "$phongexponenttexture" "models/weapons/bizon/bison_g"
+
+  "$phongfresnelranges" "[.1 .5 3]"
+  "$phongboost" "8"
+"%keywords" "creatorPaul68Rageous"
+}
